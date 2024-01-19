@@ -1,2 +1,24 @@
-# backend-project-list
 Backend Projects
+- robust user authentication system with dashboard
+- financial app
+- jira todo app
+- a dashboard
+- web crawler
+  - ECOM sites price scrapping with machine learning for future prediction
+-  stack overflow serach engine
+-  movie, tv series database (use automated scrapper to fill database)
+-  trending memes (scrape twitter, instagram, youtube)
+-  scheduleMaker
+-  Gsuite like
+-  use profile store
+-  file directory
+-  sample json generator
+-  url shortner
+-  e-commerce app
+-  map based project
+-  persistent key value store
+-  slack bot
+-  youtube video downloader
+-  rate limiter
+-  creadit card validator
+-  
