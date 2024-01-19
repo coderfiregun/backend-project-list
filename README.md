@@ -21,4 +21,4 @@ Backend Projects
 -  youtube video downloader
 -  rate limiter
 -  creadit card validator
--  
+-  media streaming (netflix, hotstar)
